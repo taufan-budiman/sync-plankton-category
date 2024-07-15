@@ -1,0 +1,121 @@
+997,997/,Software & Licensing,Software & Licensing,3427485,Software & Licensing,Match,1,,update product_category set plankton_id='3427485' where id=997;
+1548,1548/,Internal Licensing,Internal Licensing,3428036,Software & Licensing > Internal Licensing,Not Match,2,3427485,update product_category set plankton_id='3428036' where id=1548;
+1549,1548/1549/,Internal Licensing / Dump Licensing,Dump Licensing,3428052,Software & Licensing > Internal Licensing > Dump Licensing,Not Match,3,3428036,update product_category set plankton_id='3428052' where id=1549;
+3967,1548/3967/,Internal Licensing / Merchandise Vdr Licensing,Merchandise Vdr Licensing,3428068,Software & Licensing > Internal Licensing > Merchandise Vdr Licensing,Not Match,3,3428036,update product_category set plankton_id='3428068' where id=3967;
+376,376/,Software Antivirus & Security Retail,Software Antivirus & Security Retail,3428212,Software & Licensing > Software Antivirus & Security Retail,Not Match,2,3427485,update product_category set plankton_id='3428212' where id=376;
+377,376/377/,Software Antivirus & Security Retail / Client Software Antivirus Fpp,Client Software Antivirus Fpp,3428228,Software & Licensing > Software Antivirus & Security Retail > Client Software Antivirus Fpp,Not Match,3,3428212,update product_category set plankton_id='3428228' where id=377;
+2939,376/2939/,Software Antivirus & Security Retail / Client Software Internet Security Fpp,Client Software Internet Security Fpp,3428244,Software & Licensing > Software Antivirus & Security Retail > Client Software Internet Security Fpp,Not Match,3,3428212,update product_category set plankton_id='3428244' where id=2939;
+3669,376/3669/,Software Antivirus & Security Retail / Client Software Total Security Fpp,Client Software Total Security Fpp,3428269,Software & Licensing > Software Antivirus & Security Retail > Client Software Total Security Fpp,Not Match,3,3428212,update product_category set plankton_id='3428269' where id=3669;
+2838,2838/,Software Antivirus and Security Licensing,Software Antivirus and Security Licensing,3427493,Software & Licensing > Software Antivirus and Security Licensing,Not Match,2,3427485,update product_category set plankton_id='3427493' where id=2838;
+4195,2838/4195/,Software Antivirus and Security Licensing / Software Antivirus Licensing,Software Antivirus Licensing,3427524,Software & Licensing > Software Antivirus and Security Licensing > Software Antivirus Licensing,Not Match,3,3427493,update product_category set plankton_id='3427524' where id=4195;
+2839,2838/2839/,Software Antivirus and Security Licensing / Software Security Licensing,Software Security Licensing,3427508,Software & Licensing > Software Antivirus and Security Licensing > Software Security Licensing,Not Match,3,3427493,update product_category set plankton_id='3427508' where id=2839;
+501,501/,Software Back Up & Utility Licensing,Software Back Up & Utility Licensing,3427540,Software & Licensing > Software Back Up & Utility Licensing,Not Match,2,3427485,update product_category set plankton_id='3427540' where id=501;
+3551,501/3551/,Software Back Up & Utility Licensing / Software Backup and Recovery Licensing,Software Backup and Recovery Licensing,3427556,Software & Licensing > Software Back Up & Utility Licensing > Software Backup and Recovery Licensing,Not Match,3,3427540,update product_category set plankton_id='3427556' where id=3551;
+2245,501/2245/,Software Back Up & Utility Licensing / Software File Compression Licensing,Software File Compression Licensing,3427572,Software & Licensing > Software Back Up & Utility Licensing > Software File Compression Licensing,Not Match,3,3427540,update product_category set plankton_id='3427572' where id=2245;
+502,501/502/,Software Back Up & Utility Licensing / Software Industrial and Engineering Licensing,Software Industrial and Engineering Licensing,3427588,Software & Licensing > Software Back Up & Utility Licensing > Software Industrial and Engineering Licensing,Not Match,3,3427540,update product_category set plankton_id='3427588' where id=502;
+1975,997/1975/,Software & Licensing / Software Database & Analysis Licensing,Software Database & Analysis Licensing,3427860,Software & Licensing > Software Database & Analysis Licensing,Match,2,3427485,update product_category set plankton_id='3427860' where id=1975;
+3159,997/1975/3159/,Software & Licensing / Software Database & Analysis Licensing / Software Business Intelligence,Software Business Intelligence,10287841946,Software & Licensing > Software Database & Analysis Licensing > Software Business Intelligence,Match,3,3427860,update product_category set plankton_id='10287841946' where id=3159;
+4214,997/1975/4214/,Software & Licensing / Software Database & Analysis Licensing / Software Database Licensing,Software Database Licensing,3427924,Software & Licensing > Software Database & Analysis Licensing > Software Database Licensing,Match,3,3427860,update product_category set plankton_id='3427924' where id=4214;
+3060,997/1975/3060/,Software & Licensing / Software Database & Analysis Licensing / Software Network Mapping and Monitoring Licensing,Software Network Mapping and Monitoring Licensing,3427908,Software & Licensing > Software Database & Analysis Licensing > Software Network Mapping and Monitoring Licensing,Match,3,3427860,update product_category set plankton_id='3427908' where id=3060;
+3312,997/1975/3312/,Software & Licensing / Software Database & Analysis Licensing / Software Programming Licensing,Software Programming Licensing,3427876,Software & Licensing > Software Database & Analysis Licensing > Software Programming Licensing,Match,3,3427860,update product_category set plankton_id='3427876' where id=3312;
+4061,997/1975/4061/,Software & Licensing / Software Database & Analysis Licensing / Software Web Design Licensing,Software Web Design Licensing,3427892,Software & Licensing > Software Database & Analysis Licensing > Software Web Design Licensing,Match,3,3427860,update product_category set plankton_id='3427892' where id=4061;
+3241,3241/,Software Education Licensing,Software Education Licensing,3428285,Software & Licensing > Software Education Licensing,Not Match,2,3427485,update product_category set plankton_id='3428285' where id=3241;
+4095,3241/4095/,Software Education Licensing / Software Learning & Teaching,Software Learning & Teaching,3428317,Software & Licensing > Software Education Licensing > Software Learning & Teaching,Not Match,3,3428285,update product_category set plankton_id='3428317' where id=4095;
+3242,3241/3242/,Software Education Licensing / Software Test Preparation,Software Test Preparation,3428301,Software & Licensing > Software Education Licensing > Software Test Preparation,Not Match,3,3428285,update product_category set plankton_id='3428301' where id=3242;
+1180,997/1180/,Software & Licensing / Software Management & Collaboration Licensing,Software Management & Collaboration Licensing,3427972,Software & Licensing > Software Management & Collaboration Licensing,Match,2,3427485,update product_category set plankton_id='3427972' where id=1180;
+2765,997/1180/2765/,Software & Licensing / Software Management & Collaboration Licensing / Software Messaging Server Licensing,Software Messaging Server Licensing,3427988,Software & Licensing > Software Management & Collaboration Licensing > Software Messaging Server Licensing,Match,3,3427972,update product_category set plankton_id='3427988' where id=2765;
+4108,997/1180/4108/,Software & Licensing / Software Management & Collaboration Licensing / Software Network Licensing,Software Network Licensing,6485120720,Software & Licensing > Software Management & Collaboration Licensing > Software Network Licensing,Match,3,3427972,update product_category set plankton_id='6485120720' where id=4108;
+3741,997/1180/3741/,Software & Licensing / Software Management & Collaboration Licensing / Software Property Management Licensing,Software Property Management Licensing,3428004,Software & Licensing > Software Management & Collaboration Licensing > Software Property Management Licensing,Match,3,3427972,update product_category set plankton_id='3428004' where id=3741;
+3813,997/1180/3813/,Software & Licensing / Software Management & Collaboration Licensing / Software Remote Access Licensing,Software Remote Access Licensing,3428020,Software & Licensing > Software Management & Collaboration Licensing > Software Remote Access Licensing,Match,3,3427972,update product_category set plankton_id='3428020' where id=3813;
+1173,997/1173/,Software & Licensing / Software Media Kit,Software Media Kit,3428333,Software & Licensing > Software Media Kit,Match,2,3427485,update product_category set plankton_id='3428333' where id=1173;
+4155,997/1173/4155/,Software & Licensing / Software Media Kit / Media Kit for Office & Business,Media Kit for Office & Business,3428349,Software & Licensing > Software Media Kit > Media Kit for Office & Business,Match,3,3428333,update product_category set plankton_id='3428349' where id=4155;
+2529,2529/,Software Multimedia Licensing,Software Multimedia Licensing,3427604,Software & Licensing > Software Multimedia Licensing,Not Match,2,3427485,update product_category set plankton_id='3427604' where id=2529;
+3900,2529/3900/,Software Multimedia Licensing / Software Animation / 3d Licensing,Software Animation / 3d Licensing,3427668,Software & Licensing > Software Multimedia Licensing > Software Animation / 3d Licensing,Not Match,3,3427604,update product_category set plankton_id='3427668' where id=3900;
+2530,2529/2530/,Software Multimedia Licensing / Software Audio Recording/Editing Licensing,Software Audio Recording/Editing Licensing,3427700,Software & Licensing > Software Multimedia Licensing > Software Audio Recording/Editing Licensing,Not Match,3,3427604,update product_category set plankton_id='3427700' where id=2530;
+3593,2529/3593/,Software Multimedia Licensing / Software Desktop Publishing Licensing,Software Desktop Publishing Licensing,3427652,Software & Licensing > Software Multimedia Licensing > Software Desktop Publishing Licensing,Not Match,3,3427604,update product_category set plankton_id='3427652' where id=3593;
+3577,2529/3577/,Software Multimedia Licensing / Software Illustration / Design Licensing,Software Illustration / Design Licensing,3427636,Software & Licensing > Software Multimedia Licensing > Software Illustration / Design Licensing,Not Match,3,3427604,update product_category set plankton_id='3427636' where id=3577;
+3648,2529/3648/,Software Multimedia Licensing / Software Photo Editing Licensing,Software Photo Editing Licensing,3427620,Software & Licensing > Software Multimedia Licensing > Software Photo Editing Licensing,Not Match,3,3427604,update product_category set plankton_id='3427620' where id=3648;
+2659,2529/2659/,Software Multimedia Licensing / Software Video Capture / Editing Licensing,Software Video Capture / Editing Licensing,3427684,Software & Licensing > Software Multimedia Licensing > Software Video Capture / Editing Licensing,Not Match,3,3427604,update product_category set plankton_id='3427684' where id=2659;
+3479,3479/,Software Office & Business Licensing,Software Office & Business Licensing,3427780,Software & Licensing > Software Office & Business Licensing,Not Match,2,3427485,update product_category set plankton_id='3427780' where id=3479;
+3744,3479/3744/,Software Office & Business Licensing / Software Accounting Licensing,Software Accounting Licensing,3427812,Software & Licensing > Software Office & Business Licensing > Software Accounting Licensing,Not Match,3,3427780,update product_category set plankton_id='3427812' where id=3744;
+4073,3479/4073/,Software Office & Business Licensing / Software Cad / Cam Licensing,Software Cad / Cam Licensing,3427828,Software & Licensing > Software Office & Business Licensing > Software Cad / Cam Licensing,Not Match,3,3427780,update product_category set plankton_id='3427828' where id=4073;
+3480,3479/3480/,Software Office & Business Licensing / Software Customer Management / Crm Licensing,Software Customer Management / Crm Licensing,3427796,Software & Licensing > Software Office & Business Licensing > Software Customer Management / Crm Licensing,Not Match,3,3427780,update product_category set plankton_id='3427796' where id=3480;
+4140,3479/4140/,Software Office & Business Licensing / Software Gis / Mapping Licensing,Software Gis / Mapping Licensing,3427844,Software & Licensing > Software Office & Business Licensing > Software Gis / Mapping Licensing,Not Match,3,3427780,update product_category set plankton_id='3427844' where id=4140;
+1573,1573/,Software Office & Business Retail,Software Office & Business Retail,3428084,Software & Licensing > Software Office & Business Retail,Not Match,2,3427485,update product_category set plankton_id='3428084' where id=1573;
+1977,1573/1977/,Software Office & Business Retail / Client Software File Compression Fpp,Client Software File Compression Fpp,3428132,Software & Licensing > Software Office & Business Retail > Client Software File Compression Fpp,Not Match,3,3428084,update product_category set plankton_id='3428132' where id=1977;
+1574,1573/1574/,Software Office & Business Retail / Client Software Office Application Fpp,Client Software Office Application Fpp,3428116,Software & Licensing > Software Office & Business Retail > Client Software Office Application Fpp,Not Match,3,3428084,update product_category set plankton_id='3428116' where id=1574;
+2860,1573/2860/,Software Office & Business Retail / Client Software Photo Capture / Editing Fpp,Client Software Photo Capture / Editing Fpp,3428100,Software & Licensing > Software Office & Business Retail > Client Software Photo Capture / Editing Fpp,Not Match,3,3428084,update product_category set plankton_id='3428100' where id=2860;
+3445,1573/3445/,Software Office & Business Retail / Client Software Programming Fpp,Client Software Programming Fpp,3428164,Software & Licensing > Software Office & Business Retail > Client Software Programming Fpp,Not Match,3,3428084,update product_category set plankton_id='3428164' where id=3445;
+4097,1573/4097/,Software Office & Business Retail / Client Software Synchronization / Transfer Fpp,Client Software Synchronization / Transfer Fpp,3428148,Software & Licensing > Software Office & Business Retail > Client Software Synchronization / Transfer Fpp,Not Match,3,3428084,update product_category set plankton_id='3428148' where id=4097;
+1634,1634/,Software Office Productivity Licensing,Software Office Productivity Licensing,3427940,Software & Licensing > Software Office Productivity Licensing,Not Match,2,3427485,update product_category set plankton_id='3427940' where id=1634;
+4123,1634/4123/,Software Office Productivity Licensing / Software Office Application Licensing,Software Office Application Licensing,3427956,Software & Licensing > Software Office Productivity Licensing > Software Office Application Licensing,Not Match,3,3427940,update product_category set plankton_id='3427956' where id=4123;
+1635,1634/1635/,Software Office Productivity Licensing / Software Video Conferencing,Software Video Conferencing,10542368526,Software & Licensing > Software Office Productivity Licensing > Software Video Conferencing,Not Match,3,3427940,update product_category set plankton_id='10542368526' where id=1635;
+998,997/998/,Software & Licensing / Software Operating System Retail,Software Operating System Retail,3428180,Software & Licensing > Software Operating System Retail,Match,2,3427485,update product_category set plankton_id='3428180' where id=998;
+3444,997/998/3444/,Software & Licensing / Software Operating System Retail / Client Software Windows Os Fpp,Client Software Windows Os Fpp,3428196,Software & Licensing > Software Operating System Retail > Client Software Windows Os Fpp,Match,3,3428180,update product_category set plankton_id='3428196' where id=3444;
+530,530/,Software Os & Virtualization Licensing,Software Os & Virtualization Licensing,3427716,Software & Licensing > Software Os & Virtualization Licensing,Not Match,2,3427485,update product_category set plankton_id='3427716' where id=530;
+531,530/531/,Software Os & Virtualization Licensing / Software Linux / Unix Os Licensing (Eol),Software Linux / Unix Os Licensing (Eol),3427748,Software & Licensing > Software Os & Virtualization Licensing > Software Linux / Unix Os Licensing (Eol),Not Match,3,3427716,update product_category set plankton_id='3427748' where id=531;
+1591,530/1591/,Software Os & Virtualization Licensing / Software Virtualization Licensing,Software Virtualization Licensing,3427764,Software & Licensing > Software Os & Virtualization Licensing > Software Virtualization Licensing,Not Match,3,3427716,update product_category set plankton_id='3427764' where id=1591;
+3742,530/3742/,Software Os & Virtualization Licensing / Software Windows Os Licensing,Software Windows Os Licensing,3427732,Software & Licensing > Software Os & Virtualization Licensing > Software Windows Os Licensing,Not Match,3,3427716,update product_category set plankton_id='3427732' where id=3742;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

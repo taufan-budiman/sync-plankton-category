@@ -1,0 +1,4 @@
+997,997/,Software & Licensing,Software & Licensing,3427485,Software & Licensing,Match,1,,update product_category set plankton_id='3427485' where id=997;
+1548,1548/,Internal Licensing,Internal Licensing,3428036,Software & Licensing > Internal Licensing,Not Match,2,3427485,update product_category set plankton_id='3428036' where id=1548;
+1549,1548/1549/,Internal Licensing / Dump Licensing,Dump Licensing,3428052,Software & Licensing > Internal Licensing > Dump Licensing,Not Match,3,3428036,update product_category set plankton_id='3428052' where id=1549;
+3967,1548/3967/,Internal Licensing / Merchandise Vdr Licensing,Merchandise Vdr Licensing,3428068,Software & Licensing > Internal Licensing > Merchandise Vdr Licensing,Not Match,3,3428036,update product_category set plankton_id='3428068' where id=3967;
