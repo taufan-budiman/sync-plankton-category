@@ -33,7 +33,7 @@ class OdooCategory:
         with open('product_category_prod.csv', 'r') as pc:
             reader = csv.reader(pc)
             for row in reader:
-                if row[0] == 'id' or row[8] == 'deleted':
+                if row[0] == 'id':
                     continue
 
                 name = row[5]
@@ -47,9 +47,10 @@ class OdooCategory:
                 if search_category:
                     print(f"Update Category {name}")
                     category_object = category.browse(search_category[0])
-                    category_object.write(
-                        {'plankton_id': row[0]}
-                    )
+                    if category_object.plankton_id == "":
+                        category_object.write(
+                            {'plankton_id': row[0]}
+                        )
                 else:
                     print(f"Create Category {name}")
                     category.create(
@@ -59,7 +60,7 @@ class OdooCategory:
                         }
                     )
 
-                time.sleep(0.5)
+                # time.sleep(0.5)
             print(f'total data: {reader.line_num}')
 
     @timeit
@@ -77,7 +78,7 @@ class OdooCategory:
             reader = csv.reader(pc)
             need_to_check = []
             for row in reader:
-                if row[0] == 'id' or row[8] == 'deleted':
+                if row[0] == 'id':
                     continue
 
                 plankton_id = row[0]
@@ -105,7 +106,7 @@ class OdooCategory:
                         print(f'need to check {parent_plankton_id}')
 
                 print('Update Done')
-                time.sleep(1)
+                # time.sleep(1)
             print(need_to_check)
             print(f'total data: {reader.line_num}')
 
@@ -133,12 +134,12 @@ class OdooCategory:
                               f'{str(category_object.id)}, plankton_id: '
                               f'{plankton_id}')
                         known_plankton_id.append(row[0])
-                time.sleep(0.5)
+                # time.sleep(0.5)
             print(known_plankton_id)
 
 
 if __name__ == '__main__':
     odoo = OdooCategory()
-    # odoo.upsert_plankton_id()
+    odoo.upsert_plankton_id()
     # odoo.update_parent_fico()
-    odoo.check_level_fico_plankton()
+    # odoo.check_level_fico_plankton()
